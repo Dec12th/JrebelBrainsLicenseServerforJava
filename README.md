@@ -19,7 +19,7 @@ guid可以使用UUID直接生成，或者使用https://www.uuidgenerator.net
 https://raw.githubusercontent.com/Dec12th/JrebelBrainsLicenseServerforJava/master/JetbrainsIdesCrack-4.2-release.jar
 
 ### 使用方法
-1. 将补丁放在安装包的/bin路径下；
+1. 将补丁放在安装包的/bin路径下;
 2. 分别 对本文件夹(bin)下的idea.exe.vmoptions和idea64.exe.vmoptions这两个文件进行修改，打开文件在末尾添加如下配置指令：
 <pre><code>
 Windows版：-javaagent:D:/idea/bin/JetbrainsIdesCrack-4.2-release.jar
@@ -28,9 +28,11 @@ Mac版：-javaagent:../bin/JetbrainsIdesCrack-4.2-release.jar
 
 Linux版：-javaagent:../bin/JetbrainsIdesCrack-4.2-release.jar
 </code></pre>
-保存编辑后的文件。
+保存编辑后的文件;
+
+
 3. 拷贝如下注册码：
-pre><code>
+<pre><code>
 ThisCrackLicenseId-{
 "licenseId":"ThisCrackLicenseId",
 "licenseeName":"Rover12421",
