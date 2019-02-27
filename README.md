@@ -36,9 +36,9 @@ Linux版：-javaagent:../bin/JetbrainsIdesCrack-4.2-release.jar
 <pre><code>
 ThisCrackLicenseId-{
 "licenseId":"ThisCrackLicenseId",
-"licenseeName":"Rover12421",
+"licenseeName":"yin.beibei",
 "assigneeName":"",
-"assigneeEmail":"rover12421@163.com",
+"assigneeEmail":"yinbah@163.com",
 "licenseRestriction":"For Rover12421 Crack, Only Test! Please support genuine!!!",
 "checkConcurrentUse":false,
 "products":[
