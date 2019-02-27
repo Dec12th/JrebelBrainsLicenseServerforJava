@@ -1,4 +1,5 @@
 # JrebelBrainsLicenseServerforJava
+***
 ## 自建JRebel License Server
 自建JRebel License Server 用到的源码
 
@@ -12,7 +13,7 @@ linux后台启动：nohup java -jar JrebelBrainsLicenseServerforJava-1.0-SNAPSHO
 
 访问地址:http://localhost:8081/{GUID}
 guid可以使用UUID直接生成，或者使用https://www.uuidgenerator.net
-
+***
 ## 破解补丁破解IDEA
 
 ### 补丁地址
