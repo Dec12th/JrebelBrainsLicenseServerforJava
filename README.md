@@ -39,7 +39,7 @@ ThisCrackLicenseId-{
 "licenseeName":"yin.beibei",
 "assigneeName":"",
 "assigneeEmail":"yinbah@163.com",
-"licenseRestriction":"For Rover12421 Crack, Only Test! Please support genuine!!!",
+"licenseRestriction":"For yin.beibei, Only Test! Please support genuine!!!",
 "checkConcurrentUse":false,
 "products":[
 {"code":"II","paidUpTo":"9998-12-31"},
